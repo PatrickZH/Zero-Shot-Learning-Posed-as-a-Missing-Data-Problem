@@ -4,7 +4,8 @@ This is the code of the method 'MDP' in paper 'Zero-Shot Learning Posed as a Mis
 
 ## Data Download
 	You can download all data (image features, attribtues and word vectors of AwA and CUB) used in this paper 
-	from <a href="https://drive.google.com/open?id=18YYOi5FxiBJ5TYLfOkzO3HGw_w-EveyY">google drive</a>. Then, put the data and code in the same fold (root path of the project).
+	from [google drive](https://drive.google.com/open?id=18YYOi5FxiBJ5TYLfOkzO3HGw_w-EveyY). 
+	Then, put the data and code in the same fold (root path of the project).
 
 ## Run the Code
 	Before running the code, you need to upzip SLEP_package_4.1.zip. 
@@ -23,5 +24,5 @@ This is the code of the method 'MDP' in paper 'Zero-Shot Learning Posed as a Mis
 	}
 
 ## Connection
-If you have any questions, feel free to contact me.<br>
-Email Address: bozhao  at  pku.edu.cn
+	If you have any questions, feel free to contact me.<br>
+	Email Address: bozhao  at  pku.edu.cn
