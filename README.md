@@ -3,10 +3,13 @@
 This is the code of the method 'MDP' in paper 'Zero-Shot Learning Posed as a Missing Data Problem'.
 
 ## Data Download
-	You can download all data (image features, attribtues and word vectors of AwA and CUB) used in this paper from  https://drive.google.com/open?id=18YYOi5FxiBJ5TYLfOkzO3HGw_w-EveyY  . Then, put the data and code in the same fold (root path of the project).
+	You can download all data (image features, attribtues and word vectors of AwA and CUB) used in this paper 
+	from  https://drive.google.com/open?id=18YYOi5FxiBJ5TYLfOkzO3HGw_w-EveyY  . Then, put the data and code in 
+	the same fold (root path of the project).
 
 ## Run the Code
-	Before running the code, you need to upzip SLEP_package_4.1.zip. This package is for the function "LeastR". For more support, you can visit the website (http://www.yelab.net/software/SLEP/) . 
+	Before running the code, you need to upzip SLEP_package_4.1.zip. This package is for the function "LeastR". 
+	For more support, you can visit the website (http://www.yelab.net/software/SLEP/) . 
 	Finally, you can run ICCVW_EXP_AwA.m and ICCVW_EXP_CUB.m . 
 
 ## Citation
