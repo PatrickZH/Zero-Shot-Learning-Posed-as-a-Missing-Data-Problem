@@ -11,6 +11,9 @@ Then, put the data and code in the same fold (root path of the project).
 Before running the code, you need to upzip SLEP_package_4.1.zip. 
 This package is for the function 'LeastR'. 
 For more support, you can visit the [website](http://www.yelab.net/software/SLEP/). <br>
+
+Get the Dimensionality Reduction toolbox from [here](https://lvdmaaten.github.io/drtoolbox/) for using function 'compute_mapping'. 
+
 Finally, you can run ICCVW_EXP_AwA.m and ICCVW_EXP_CUB.m . 
 
 ## Citation
