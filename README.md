@@ -8,20 +8,20 @@ This is the code of the method 'MDP' in paper 'Zero-Shot Learning Posed as a Mis
 	the same fold (root path of the project).
 
 ## Run the Code
-	Before running the code, you need to upzip SLEP_package_4.1.zip. This package is for the function "LeastR". 
+	Before running the code, you need to upzip SLEP_package_4.1.zip. This package is for the function 'LeastR'. 
 	For more support, you can visit the website (http://www.yelab.net/software/SLEP/) . 
 	Finally, you can run ICCVW_EXP_AwA.m and ICCVW_EXP_CUB.m . 
 
 ## Citation
-If you use the code or data, please cite our paper:
-@inproceedings{zhao2017zero,
-   title={Zero-Shot Learning Posed as a Missing Data Problem},
-   author={Zhao, Bo and Wu, Botong and Wu, Tianfu and Wang, Yizhou},
-   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-   pages={2616--2622},
-   year={2017}
+If you use the code or data, please cite our paper:<br>
+@inproceedings{zhao2017zero,<br>
+   title={Zero-Shot Learning Posed as a Missing Data Problem},<br>
+   author={Zhao, Bo and Wu, Botong and Wu, Tianfu and Wang, Yizhou},<br>
+   booktitle={Proceedings of the IEEE International Conference on Computer Vision},<br>
+   pages={2616--2622},<br>
+   year={2017}<br>
 }
 
 ## Connection
-If you have any questions, feel free to contact me.
+If you have any questions, feel free to contact me.<br>
 Email Address: bozhao  at  pku.edu.cn
