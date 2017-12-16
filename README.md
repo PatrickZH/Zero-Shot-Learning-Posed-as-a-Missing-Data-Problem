@@ -2,7 +2,7 @@
 
 This is the code of the method 'MDP' in paper [Zero-Shot Learning Posed as a Missing Data Problem](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Zhao_Zero-Shot_Learning_Posed_ICCV_2017_paper.pdf). 
 
-## Data Download
+## Download the Data
 You can download all data (image features, attribtues and word vectors of AwA and CUB) used in this paper 
 from [google drive](https://drive.google.com/open?id=18YYOi5FxiBJ5TYLfOkzO3HGw_w-EveyY). 
 Then, put the data and code in the same fold (root path of the project).
