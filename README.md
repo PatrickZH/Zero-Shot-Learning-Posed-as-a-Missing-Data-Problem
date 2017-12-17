@@ -9,11 +9,11 @@ Then, put the data and code in the same fold (root path of the project).
 
 ## Run the Code
 Before running the code, you need to install two toolboxes, namely, Dimensionality Reduction toolbox (drtoolbox.tar.gz) and LeastR toolbox (SLEP_package_4.1.zip). 
-First, unzip drtoolbox.tar.gz and SLEP_package_4.1.zip, then add the two toolboxes into your Matlab path with subfolds. 
+First, unzip drtoolbox.tar.gz and SLEP_package_4.1.zip, then add the two toolboxes into your Matlab path with subfolders. 
 
 For more support, you can visit [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) and [LeastR](http://www.yelab.net/software/SLEP/). <br>
 
-Now, you can run ICCVW_EXP_AwA.m and ICCVW_EXP_CUB.m . 
+Now, you can run ICCVW_EXP_AwA.m and ICCVW_EXP_CUB.m !
 
 ## Citation
 If you use the code or data, please cite our paper:<br>
