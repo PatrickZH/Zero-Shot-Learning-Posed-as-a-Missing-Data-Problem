@@ -20,7 +20,7 @@ If you use the code or data, please cite our paper:<br>
 @inproceedings{zhao2017zero,<br>
    title={Zero-Shot Learning Posed as a Missing Data Problem},<br>
    author={Zhao, Bo and Wu, Botong and Wu, Tianfu and Wang, Yizhou},<br>
-   booktitle={Proceedings of the IEEE International Conference on Computer Vision},<br>
+   booktitle={Proceedings of the IEEE International Conference on Computer Vision Workshops},<br>
    pages={2616--2622},<br>
    year={2017}<br>
 }
