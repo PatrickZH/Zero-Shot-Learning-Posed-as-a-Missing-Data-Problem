@@ -1,6 +1,7 @@
 # Zero-Shot Learning Posed as a Missing Data Problem
 
-This is the code of the method 'MDP' in paper [Zero-Shot Learning Posed as a Missing Data Problem](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Zhao_Zero-Shot_Learning_Posed_ICCV_2017_paper.pdf). 
+This is the MATLAB code of the method 'MDP' in paper [Zero-Shot Learning Posed as a Missing Data Problem](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w38/Zhao_Zero-Shot_Learning_Posed_ICCV_2017_paper.pdf). 
+For Python code, please refer to [zero_shot_learning_baseline](https://github.com/PatrickZH/zero_shot_learning_baseline).
 
 ## Download the Data
 You can download all data (image features, attribtues and word vectors of AwA and CUB) used in this paper 
