@@ -18,6 +18,7 @@ Now, you can run ICCVW_EXP_AwA.m and ICCVW_EXP_CUB.m !
 
 ## Citation
 If you use the code or data, please cite our paper:<br>
+```
 @inproceedings{zhao2017zero,<br>
    title={Zero-Shot Learning Posed as a Missing Data Problem},<br>
    author={Zhao, Bo and Wu, Botong and Wu, Tianfu and Wang, Yizhou},<br>
@@ -25,6 +26,7 @@ If you use the code or data, please cite our paper:<br>
    pages={2616--2622},<br>
    year={2017}<br>
 }
+```
 
 ## Connection
 If you have any questions, feel free to contact me.<br>
