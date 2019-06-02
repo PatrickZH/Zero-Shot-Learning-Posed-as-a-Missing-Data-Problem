@@ -28,6 +28,6 @@ If you use the code or data, please cite our paper:<br>
 }
 ```
 
-## Connection
+## Contact
 If you have any questions, feel free to contact me.<br>
 Email Address: bozhao  at  pku.edu.cn
